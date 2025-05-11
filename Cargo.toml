@@ -7,8 +7,8 @@ edition = "2021"
 
 [dependencies]
 #bevy = { version = "*", features = ["dynamic_linking"]}
-bevy = "0.14"
-avian3d = "0.1"
+bevy = "0.16"
+avian3d = "0.3"
 #avian3d = { git = "https://github.com/Jondolf/avian", branch = "main" }
 
 [profile.dev]
